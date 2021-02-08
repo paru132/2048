@@ -1,2 +1,2 @@
 # 2048
-python game
+python game developed as group project
